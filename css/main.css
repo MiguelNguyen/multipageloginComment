@@ -1,0 +1,22 @@
+* {
+	text-align: center;
+}
+#nameInput {
+	width: 35%;
+	height: 15%;
+	padding: 20px 20px;
+	font-size: 15px;
+}
+#comment {
+	margin-top: 10px;
+	width: 35%;
+	height: 15%;
+	padding: 20px 20px;
+	font-size: 15px;
+}
+#clickMe {
+	margin-top: 10px;
+	padding: 18px 25px 18px 25px;
+	color: white;
+	background-color: blue;
+}
